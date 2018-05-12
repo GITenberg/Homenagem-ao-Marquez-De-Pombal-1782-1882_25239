@@ -1,0 +1,30 @@
+_repo: Homenagem-ao-Marquez-De-Pombal-1782-1882_25239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Azevedo, Maximiliano de
+    aliases:
+    - Magalhães, Alberto de
+    - Magalhaes, Alberto de
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '31174'
+    url: http://www.gutenberg.org/2009/agents/31174
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25239'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+- !lcsh 'Pombal, Sebastião José de Carvalho e Melo, Marquês de, 1699-1782 -- Poetry'
+title: Homenagem ao Marquez De Pombal 1782-1882
+url: http://www.gutenberg.org/ebooks/25239
